@@ -9,7 +9,7 @@ spring
 
 spring
  datasource
-  url: jdbc:h2:file:C:/DEV/eclipse-workspace/database/data
+  url: jdbc:h2:file:C:/DEV/intellij-workspace/database/data
   username: sa
   password:
   driver-class-name: org.h2.Driver
